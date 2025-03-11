@@ -6,7 +6,7 @@ I am enthusiastic, compassionate, and adept at teamwork, effective communication
 
 <p>
 <a href="https://www.linkedin.com/in/diego-pacheco-flores-1434a9208"><img src="https://img.shields.io/badge/Linkedin-%231572B6.svg?style=for-the-badge&logo=Linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="https://diegopachecoqaportfolio.carrd.co/"><img src="https://img.shields.io/badge/carrd.svg?style=for-the-badge&logo=carrd&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://diegopachecoqaportfolio.carrd.co/"><img src="https://img.shields.io/badge/carrd-596CAF?style=for-the-badge&logo=carrd&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 </p>
 
 ---
@@ -15,15 +15,15 @@ I am enthusiastic, compassionate, and adept at teamwork, effective communication
 
 🎨 Automation testing Tools:
 
-![Selenium](https://img.shields.io/badge/selenium.svg?style=for-the-badge&logo=selenium&logoColor=white)
-![Appium](https://img.shields.io/badge/appium.svg?style=for-the-badge&logo=appium&logoColor=white)
-![Rest Assured](https://img.shields.io/badge/Rest%25Assured?style=for-the-badge)
-![PostMan](https://img.shields.io/badge/postman.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Appium](https://img.shields.io/badge/appium-EE376D?style=for-the-badge&logo=appium&logoColor=white)
+![Rest Assured](https://img.shields.io/badge/Rest%20Assured-6E9F18?style=for-the-badge)
+![PostMan](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 📋 Programming Languages:
 
-![Java](https://img.shields.io/badge/java.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python.svg?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-C00000?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 🕓 Version Control:
 
@@ -32,9 +32,8 @@ I am enthusiastic, compassionate, and adept at teamwork, effective communication
 
 🥅 Other Tools:
 
-![Jira](https://img.shields.io/badge/jira.svg?style=for-the-badge&logo=jira&logoColor=white)
-![SQL](https://img.shields.io/badge/postgresql.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Jenkkins](https://img.shields.io/badge/jenkins.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%25Actionsd?style=for-the-badge)
+![Jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jenkkins](https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ---  
-</div>
